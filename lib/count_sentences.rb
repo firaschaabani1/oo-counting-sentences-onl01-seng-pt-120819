@@ -13,7 +13,7 @@ class String
 if question ="What's your name"
   return "true"
 if else question ="Happy Halloween!"
-  return "false"  
+  return "false"
   end
 
   def exclamation?
@@ -26,6 +26,6 @@ if count_sentences = "one, two, three?"
   return "3"
   if count_sentences = ""
     return 0
-  else return "4" 
+  else return "4"
   end
 end
